@@ -1,4 +1,4 @@
 def main(number):
-    return number -3
-a = main(int(input()))
+    return number
+a = main(-8)
 print(abs(a))

@@ -1,4 +1,3 @@
 def main():
-    return 5
-a = main()
-print(float(a))
+    return 3*(7/5-9/4)
+print(round(main(),2))
